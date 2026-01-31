@@ -19,4 +19,4 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: OBS kontrol
-        run: python Kontrol.py
+        run: python kontrol.py
