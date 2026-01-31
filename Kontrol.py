@@ -23,6 +23,7 @@ login_data = {
     "password": PASSWORD
 }
 
+print("Github Actions çalıştı")
 session.post(OBS_URL + "/login", data=login_data)
 
 r = session.get(OBS_URL + "/notlar")
