@@ -2,6 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import os
 
+print("KONTROL.PY ÇALIŞTI")
+
+
 # =====================
 # ORTAM DEĞİŞKENLERİ
 # =====================
